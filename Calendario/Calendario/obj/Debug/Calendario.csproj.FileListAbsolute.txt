@@ -1,0 +1,7 @@
+C:\Users\psato\source\repos\Calendario\Calendario\bin\Debug\Calendario.exe.config
+C:\Users\psato\source\repos\Calendario\Calendario\bin\Debug\Calendario.exe
+C:\Users\psato\source\repos\Calendario\Calendario\bin\Debug\Calendario.pdb
+C:\Users\psato\source\repos\Calendario\Calendario\obj\Debug\Calendario.csproj.AssemblyReference.cache
+C:\Users\psato\source\repos\Calendario\Calendario\obj\Debug\Calendario.csproj.CoreCompileInputs.cache
+C:\Users\psato\source\repos\Calendario\Calendario\obj\Debug\Calendario.exe
+C:\Users\psato\source\repos\Calendario\Calendario\obj\Debug\Calendario.pdb
